@@ -1,0 +1,33 @@
+.Results-view-mode {
+  padding: 35px;
+  align-items: center;
+  background-color: rgb(193, 226, 255);
+}
+
+.ListView {
+  padding: 20px;
+}
+
+.Gallery {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Gallery-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 20%;
+  padding: 0.5rem 0.75rem;
+  box-sizing: border-box;
+}
+
+.Gallery-symbol {
+  font-size: 4rem;
+}
+
+.Gallery-id {
+  text-align: center;
+}

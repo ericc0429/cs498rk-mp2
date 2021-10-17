@@ -1,0 +1,29 @@
+.Search {
+  padding: 1rem;
+}
+
+.Search-input {
+  width: 40%;
+  border: 3px solid #dbdbdb;
+  border-radius: 1px;
+  padding: 0.5rem 0.75rem ;
+  box-sizing: border-box;
+}
+
+.Search-button {
+  width: 10%;
+  border: 3px solid #7a7a7a;
+  border-radius: 1px;
+  padding: 0.5rem 0.75rem ;
+  box-sizing: border-box;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
